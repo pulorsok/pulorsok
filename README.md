@@ -1,16 +1,15 @@
 ### Hi there 👋
+I'm the Team Lead of Quark Engine.
 
-<!--
-**pulorsok/pulorsok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are what I did previously as Triage Team Lead:
 
-Here are some ideas to get you started:
+- Define processes for handling issues/PRs.
+- Review PRs.
+- Manage Quark releases.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+And here are what I will do as Quark Team Lead:
+
+- Build Quark's community.
+- Develop all strategies (hiring, branding, techniques) for Quark.
+- Lead Quark team to present our work in top security conferences.
+- Lead Quark to apply to Google Summer of Code.
