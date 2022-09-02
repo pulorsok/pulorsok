@@ -5,7 +5,7 @@ I’m the UI/UX Team Lead of [Quark-Engine](https://github.com/quark-engine/quar
 Here are what I do as Quark UI/UX Team Lead:
 
 1. Develop UI/UX design strategy under Quark's vision and goals. (e.g., develop Quark Script website)
-2. Lead team in building user and contributor friendly environment for Quark. (e.g., Make Quark introduction video)
+2. Lead team in building user and contributor friendly environment for Quark. (e.g., make Quark introduction video)
 3. Build methods to identify and solve UI/UX problems of Quark. (e.g. non-intuitive CLI)
 
 Here are what I did previously as Triage Team Lead:
